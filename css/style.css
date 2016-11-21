@@ -21,14 +21,16 @@ body a{
 	-ms-transition:0.5s all;
 }
 .header{
-	background:#fff;
-	padding:0;
-	margin-left: 16em;
+	background:#e94e38;
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
 }
 .header-left{
 	float: left;
 	width:66%;
-	padding: 9px 0;
+	padding: 0 0;
 }
 .search-box {
 	float: left;
